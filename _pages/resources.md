@@ -1,7 +1,11 @@
 ---
 layout: page
-title: Resources
+title: 
 permalink: /resources/
 ---
 
-Testing resources
+### Publications
+
+### Presentation
+
+### Talks
