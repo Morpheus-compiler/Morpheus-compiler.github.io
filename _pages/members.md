@@ -15,7 +15,7 @@ permalink: /members/
 <img src="{{ site.baseurl }}/images/fulvio.jpeg" width="150" height="150"> [Fulvio](https://fulvio.frisso.net/) is a professor at Politecnico di Torino and his main research interest has always been high-speed packet processing (i.e., 10Gbps and beyond), while maintaining flexibility.
 
 ### Gábor Rétvári
-<img src="http://lendulet.tmit.bme.hu/~retvari/retvari.portre.png" width="150" height="150"> [Gábor](http://lendulet.tmit.bme.hu/~retvari/) is a senior research fellow at the Department of Telecommunications and Media Informatics, and a part-time Senior Research Fellow at Ericsson Research, Hungary. 
+<img src="{{ site.baseurl }}/images/retvari.portre.png" width="150" height="150"> [Gábor](http://lendulet.tmit.bme.hu/~retvari/) is a senior research fellow at the Department of Telecommunications and Media Informatics, and a part-time Senior Research Fellow at Ericsson Research, Hungary. 
 
 ### Gianni Antichi 
 <img src="https://gianniantichi.github.io/img/gianni.png" width="150" height="150"> [Gianni](https://gianniantichi.github.io/) is a senior lecturer at the School of Electronic Engineering and Computer Science of Queen Mary University of London and Alan Turing Institute fellow.
