@@ -12,7 +12,7 @@ permalink: /members/
 <img src="https://raw.githubusercontent.com/sarsanaee/jekyll-now/master/images/my_pix.jpg" width="150" height="150"> [Alireza](https://sarsanaee.github.io/) is a Ph.D. student at Queen Mary University of London advised by Gianni Antichi. His interests centers around computer systems, mainly operating systems and networks.
 
 ### Fulvio Risso
-<img src={{ site.baseurl }}/images/fulvio.jpeg width="150" height="150"> [Fulvio](https://fulvio.frisso.net/) is a professor at Politecnico di Torino and his main research interest has always been high-speed packet processing (i.e., 10Gbps and beyond), while maintaining flexibility.
+<img src="{{ site.baseurl }}/images/fulvio.jpeg" width="150" height="150"> [Fulvio](https://fulvio.frisso.net/) is a professor at Politecnico di Torino and his main research interest has always been high-speed packet processing (i.e., 10Gbps and beyond), while maintaining flexibility.
 
 ### Gábor Rétvári
 <img src="http://lendulet.tmit.bme.hu/~retvari/retvari.portre.png" width="150" height="150"> [Gábor](http://lendulet.tmit.bme.hu/~retvari/) is a senior research fellow at the Department of Telecommunications and Media Informatics, and a part-time Senior Research Fellow at Ericsson Research, Hungary. 
