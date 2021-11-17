@@ -6,6 +6,6 @@ permalink: /resources/
 
 ### Publications
 
-### Presentation
+### Presentations
 
 ### Talks
