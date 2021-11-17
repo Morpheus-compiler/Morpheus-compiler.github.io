@@ -7,18 +7,15 @@ permalink: /members/
 
 ### Sebastiano Miano 
 
-
 ### Alireza Sanaeee
 
 ### Fulvio Risso
 
 ### Gábor Rétvári
-![Gábor Rétvári](http://lendulet.tmit.bme.hu/~retvari/retvari.portre.png)
-[Gábor Rétvári](http://lendulet.tmit.bme.hu/~retvari/) is a senior research fellow at the Department of Telecommunications and Media Informatics, and a part-time Senior Research Fellow at Ericsson Research, Hungary. 
+![Gábor Rétvári](http://lendulet.tmit.bme.hu/~retvari/retvari.portre.png) [Gábor Rétvári](http://lendulet.tmit.bme.hu/~retvari/) is a senior research fellow at the Department of Telecommunications and Media Informatics, and a part-time Senior Research Fellow at Ericsson Research, Hungary. 
 
 ### Gianni Antichi 
-![Gianni Antichi](https://gianniantichi.github.io/img/gianni.png)
-[Gianni Antichi](https://gianniantichi.github.io/) is a senior lecturer at the School of Electronic Engineering and Computer Science of Queen Mary University of London and Alan Turing Institute fellow.
+![Gianni Antichi](https://gianniantichi.github.io/img/gianni.png) [Gianni Antichi](https://gianniantichi.github.io/) is a senior lecturer at the School of Electronic Engineering and Computer Science of Queen Mary University of London and Alan Turing Institute fellow.
 
 [Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
 
