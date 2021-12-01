@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Domain Specific Run Time Optimization for Software Data Planes
-permalink: /morpheus/
+permalink: /
 ---
 
 
