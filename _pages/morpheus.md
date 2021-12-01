@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Morpheus: Domain Specific Run Time Optimization for Software Data Planes
+title: Domain Specific Run Time Optimization for Software Data Planes
 permalink: /morpheus/
 ---
+
 
 [![Morpheus DUT Build](https://github.com/Morpheus-compiler/Morpheus/actions/workflows/morpheus-build.yml/badge.svg)](https://github.com/Morpheus-compiler/Morpheus/actions/workflows/morpheus-build.yml)
 [![Morpheus Packet Generator Build](https://github.com/Morpheus-compiler/Morpheus/actions/workflows/morpheus-pktgen-build.yml/badge.svg)](https://github.com/Morpheus-compiler/Morpheus/actions/workflows/morpheus-pktgen-build.yml)
@@ -11,7 +12,7 @@ Morpheus is a system working alongside static compilers that continuously optimi
 It introduces a number of new techniques, from static code analysis to adaptive code instrumentation, together with a toolbox of domain specific optimizations used to manipulate the code on-the-fly depending on runtime traffic patterns and control plane configurations.
 
 <p align="center">
-<img src="morpheus-logo.svg"  alt="Morpheus" width="80%">
+<img src="https://raw.githubusercontent.com/Morpheus-compiler/Morpheus/main/morpheus-logo.svg"  alt="Morpheus" width="80%">
 </p>
 <p align="center">
 <sub>Morpheus compilation pipeline.</sub>
